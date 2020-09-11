@@ -1,0 +1,8 @@
+echo "# kibrisnicosiatransfer.github.io" >> README.md 
+git init 
+git ekle README.md 
+git commit -m "ilk commit" 
+git şube -M ana 
+git uzak kaynak ekle git@github.com: kibrisanicosiatransfer / kibrisnicosiatransfer.github. io.git
+ git push -u kaynak yöneticisi
+                
